@@ -1,0 +1,21 @@
+{
+  "name": "ESP32 Weather Dashboard",
+  "short_name": "Weather ESP32",
+  "description": "Real-time weather data from your ESP32 sensors.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09090b",
+  "theme_color": "#18b2f4",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
